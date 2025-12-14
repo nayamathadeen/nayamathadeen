@@ -15,7 +15,7 @@ I’m here to **show you what relentless curiosity + discipline + cross-discipli
 
 **What I'm Building Right Now**
 
-**Tech Portfolio: Cloud, Data & Bioinformatics Journey**  
+**Tech Portfolio:** Cloud and data analytics 
 **Stack:** AWS, Python, SQL, Linux, Microsoft Fabric  
 **Live Repo:** Documenting every milestone, failure, and breakthrough along the way.  
 **Status:** 🔴 *Actively Building*
