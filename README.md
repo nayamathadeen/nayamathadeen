@@ -1,5 +1,7 @@
 **Crafted with Curiosity. Driven by Innovation.**
 
+---
+
 **Who I Am: The Biomed Student Who Speaks Tech**
 I'm Nayana: The biomedicine student who refuses to stay in one lane.  
 
