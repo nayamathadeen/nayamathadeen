@@ -7,7 +7,7 @@
 I'm Nayana: The biomedicine student who refuses to stay in one lane.  
 
 I ask big questions, solve real problems and bridge the world of **science, data, and cloud technology**.
-Now I’m applying that same clarity to technology — learning to build, automate, analyse, and innovate.
+Now I’m applying that same clarity to technology, learning to build, automate, analyse and innovate.
 I’m not here to pretend I have senior-level experience.  
 I’m here to **show you what relentless curiosity + discipline + cross-disciplinary thinking can achieve.**
 
