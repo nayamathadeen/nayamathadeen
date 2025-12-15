@@ -1,8 +1,8 @@
-**Crafted with Curiosity. Driven by Innovation.**
+## **Crafted with Curiosity. Driven by Innovation.**
 
 ---
 
-**Who I Am: The Biomed Student Who Speaks Tech**
+## **Who I Am: The Biomed Student Who Speaks Tech**
 
 I'm Nayana: The biomedicine student who refuses to stay in one lane.  
 
@@ -13,7 +13,7 @@ I’m here to **show you what relentless curiosity + discipline + cross-discipli
 
 ---
 
-**What I'm Building Right Now**
+## **What I'm Building Right Now**
 
 **Tech Portfolio:** Cloud and data analytics 
 
@@ -24,7 +24,7 @@ I’m here to **show you what relentless curiosity + discipline + cross-discipli
 **Status:** 🔴 *Actively Building*
 ---
 
-**Tools I'm currently playing around with**
+## **Tools I'm currently playing around with**
 
 **Cloud & Infrastructure**  
 - AWS (EC2, S3, CloudWatch, Lambda, RDS, CodeDeploy)  
@@ -48,7 +48,7 @@ I’m here to **show you what relentless curiosity + discipline + cross-discipli
 
 ---
 
-**Certifications & Recent Achievements**
+## **Certifications & Recent Achievements**
 
 | 🏆 Certification | 🏢 Issuer | 📅 Year |
 |------------------|----------|---------|
@@ -61,7 +61,7 @@ I’m here to **show you what relentless curiosity + discipline + cross-discipli
 
 ---
 
-**Let's Connect & Build Something Meaningful**
+## **Let's Connect & Build Something Meaningful**
 
 If you're looking for someone who learns quickly, solves problems creatively and works with purpose. I’m ready!
 
