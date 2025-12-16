@@ -2,7 +2,7 @@
 
 ---
 
-## **Who I Am: The Biomed Student Who Speaks Tech**
+## **Who I Am: The Biomed Graduate Who Speaks Tech**
 
 I'm Nayana: The biomedicine student who refuses to stay in one lane.  
 
